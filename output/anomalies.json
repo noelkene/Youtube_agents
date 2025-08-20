@@ -1,0 +1,102 @@
+[
+    {
+        "date": "2025-07-03",
+        "track_id": "SS01",
+        "track_name": "Neon Rider",
+        "artist_name": "Synthwave Surfer",
+        "country": "Brazil",
+        "views": 9010,
+        "local_average": 8916.5,
+        "platform": "YouTube Shorts"
+    },
+    {
+        "date": "2025-07-05",
+        "track_id": "SS01",
+        "track_name": "Neon Rider",
+        "artist_name": "Synthwave Surfer",
+        "country": "Germany",
+        "views": 10300,
+        "local_average": 10100.0,
+        "platform": "YouTube Shorts"
+    },
+    {
+        "date": "2025-07-03",
+        "track_id": "SS01",
+        "track_name": "Neon Rider",
+        "artist_name": "Synthwave Surfer",
+        "country": "Japan",
+        "views": 12610,
+        "local_average": 12511.5,
+        "platform": "YouTube Shorts"
+    },
+    {
+        "date": "2025-07-04",
+        "track_id": "SS01",
+        "track_name": "Neon Rider",
+        "artist_name": "Synthwave Surfer",
+        "country": "USA",
+        "views": 45500,
+        "local_average": 15251.0,
+        "platform": "YouTube Shorts"
+    },
+    {
+        "date": "2025-07-08",
+        "track_id": "SS01",
+        "track_name": "Neon Rider",
+        "artist_name": "Synthwave Surfer",
+        "country": "USA",
+        "views": 15400,
+        "local_average": 15215.0,
+        "platform": "YouTube Shorts"
+    },
+    {
+        "date": "2025-07-05",
+        "track_id": "SS02",
+        "track_name": "Starlight Voyage",
+        "artist_name": "Synthwave Surfer",
+        "country": "Brazil",
+        "views": 5280,
+        "local_average": 5120.0,
+        "platform": "YouTube Shorts"
+    },
+    {
+        "date": "2025-07-07",
+        "track_id": "SS02",
+        "track_name": "Starlight Voyage",
+        "artist_name": "Synthwave Surfer",
+        "country": "Germany",
+        "views": 95850,
+        "local_average": 7895.0,
+        "platform": "YouTube Shorts"
+    },
+    {
+        "date": "2025-07-04",
+        "track_id": "SS02",
+        "track_name": "Starlight Voyage",
+        "artist_name": "Synthwave Surfer",
+        "country": "USA",
+        "views": 23000,
+        "local_average": 20584.0,
+        "platform": "YouTube Shorts"
+    },
+    {
+        "date": "2025-07-05",
+        "track_id": "SS03",
+        "track_name": "Sunset Drive",
+        "artist_name": "Synthwave Surfer",
+        "country": "Japan",
+        "views": 25600,
+        "local_average": 25435.0,
+        "platform": "YouTube Shorts"
+    },
+    {
+        "date": "2025-07-04",
+        "track_id": "SS03",
+        "track_name": "Sunset Drive",
+        "artist_name": "Synthwave Surfer",
+        "country": "USA",
+        "views": 85300,
+        "local_average": 30162.5,
+        "platform": "YouTube Shorts"
+    }
+]
